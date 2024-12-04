@@ -1,3 +1,3 @@
-# nama_nim
+# Alexander Sitepu
 
-A new Flutter project.
+Tugas Penambahan Nilai Praktikum Pemrograman Mobile
